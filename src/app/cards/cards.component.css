@@ -48,4 +48,21 @@
     background: #00000096;
     margin-top: 7px;
     padding: 6px;
+    text-align: center;
+}
+
+.buyBtn button {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    padding-left: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    padding-right: 30px;
+}
+
+@media only screen and (max-width: 576px) {
+    .cardTitle {
+        font-size: 18px;
+    }
 }
