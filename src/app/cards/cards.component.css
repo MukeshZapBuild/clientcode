@@ -36,3 +36,16 @@
 .cardHeading {
     font-weight: 600;
 }
+
+.buyBtn {
+    position: absolute;
+    top: 13px;
+    right: 13px;
+}
+
+.buyBtn h5 {
+    color: #fff;
+    background: #00000096;
+    margin-top: 7px;
+    padding: 6px;
+}

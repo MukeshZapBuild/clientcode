@@ -5,7 +5,7 @@ export const CARDS: any = [
     iconUrl: "../assets/images/Tile_image.jpg",
     title: "Kariba Red+ Zimbabwe",
     quantity: "957,842 lbs. Offset",
-    price: 0,
+    price: 7.5,
     description:
       "Protect Forest and wildlifepn the Southernshores of Lake Kariba in Zimbabwe, forming a giant biodiversity corridor"
   },
@@ -15,7 +15,7 @@ export const CARDS: any = [
     iconUrl: "../assets/images/Tile_image.jpg",
     title: "Arcata Sunnybrae tract USA",
     quantity: "957,842 lbs. Offset",
-    price: 0,
+    price: null,
     description:
       "Protect Forest and wildlifepn the Southernshores of Lake Kariba in Zimbabwe, forming a giant biodiversity corridor"
   },
@@ -25,7 +25,7 @@ export const CARDS: any = [
     iconUrl: "../assets/images/Tile_image.jpg",
     title: "Kariba Red+ Zimbabwe",
     quantity: "957,842 lbs. Offset",
-    price: 0,
+    price: 13,
     description:
       "Protect Forest and wildlifepn the Southernshores of Lake Kariba in Zimbabwe, forming a giant biodiversity corridor"
   },
@@ -35,7 +35,7 @@ export const CARDS: any = [
     iconUrl: "../assets/images/Tile_image.jpg",
     title: "Kariba Red+ Zimbabwe",
     quantity: "957,842 lbs. Offset",
-    price: 0,
+    price: 98,
     description:
       "Protect Forest and wildlifepn the Southernshores of Lake Kariba in Zimbabwe, forming a giant biodiversity corridor"
   },

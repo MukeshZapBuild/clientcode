@@ -7,6 +7,10 @@
       width="100%"
     />
     <h4 class="cardTitle">{{ card.title }}</h4>
+    <div class="buyBtn" *ngIf="card.price">
+      <button class="btn btn-success">Buy Now</button>
+      <h5 class="cardHeading">$ {{ card.price }} /ton</h5>
+    </div>
   </div>
   <div class="card-body">
     <h5 class="cardHeading textDanger">{{ card.heading }}</h5>
