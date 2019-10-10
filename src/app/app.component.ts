@@ -1,10 +1,13 @@
-import { Component } from '@angular/core';
+import { card } from "./../model/card";
+import { CARDS } from "./../../db-data";
+import { Component } from "@angular/core";
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: "app-root",
+  templateUrl: "./app.component.html",
+  styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  title = 'namancode';
+  title = "namancode";
+  cards: card[] = CARDS;
 }

@@ -1,0 +1,38 @@
+.cardTitle {
+    position: absolute;
+    background: #00000094;
+    color: #fff;
+    bottom: 15px;
+    left: 25px;
+    text-transform: uppercase;
+    line-height: 37px;
+    font-weight: 600;
+    padding: 16px;
+}
+
+.card-body p {
+    font-size: 19px;
+}
+
+.card-heading {
+    position: relative;
+}
+
+.card {
+    box-shadow: 1px 2px 1px #e8e7e7;
+    font-family: 'Karla', sans-serif;
+}
+
+.card img {
+    height: 245px;
+    object-fit: cover;
+}
+
+.textQty {
+    font-weight: 600;
+    font-size: 20px!important;
+}
+
+.cardHeading {
+    font-weight: 600;
+}
